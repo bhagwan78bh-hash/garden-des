@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en" class="scroll-smooth">
 <head>
-   <script src="work/work.js" data-redirect="https://ideagardens-053433fd20d4.herokuapp.com/"></script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Verdant | Comprehensive Garden Care Guide & Plant Vitality Handbook</title>
